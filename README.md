@@ -16,3 +16,13 @@ And some miscellaneous repos to do with the music wiki:
 * [bc-art](https://github.com/hsmusic/bc-art): Python-based tool for nabbing full-resolution artwork from albums off Bandcamp. A very convenient utility for the music wiki's preservation efforts!
 * [fefeta-bot](https://github.com/hsmusic/fefeta-bot): It's the bot that mods use to let you into [HSMusic's Discord server](https://hsmusic.wiki/discord/)!
 * [hsmusic.github.io](https://github.com/hsmusic/hsmusic.github.io): Truly ancient repo where the wiki used to be hosted before it got its own domain.
+
+---
+
+The Homestuck Music Wiki's development is assisted by [<img src="fastly-tachometer-red.png" width="20" height="20" alt="logo"> Fastly](https://www.fastly.com) through their [Fast Forward](https://www.fastly.com/fast-forward) program, which directly supports hosting [hsmusic.wiki](https://hsmusic.wiki) on the web and serving it around the world.
+
+We count on [<img src="digitalocean-icon-blue.png" width="20" height="20" alt="logo"> DigitalOcean](https://www.digitalocean.com) to serve the origin server for hsmusic.wiki and to statically host the wiki's actual HTML. We preserve 5+ years of detailed wiki discussion with [<img src="discord-symbol-blurple.png" width="20" height="20"> Discord](https://discord.com) and depend on them to host [our Discord server](https://hsmusic.wiki/discord/), which is the main community space related to HSMusic, and essential to our project. And of course, we host our repositories, issue trackers, and pull requests all here on [<picture><source media="(prefers-color-scheme: dark)" srcset="github-mark-white.png"><img src="github-mark.png" alt="logo"></picture> GitHub](https://github.com). These companies are important to the music wiki's functioning, but do not sponsor us.
+
+We are not affiliated with [the Homestuck Independent Creative Union](https://beyondcanon.com/about).
+
+Speaking as [QN](https://hsmusic.wiki/artist/quasar-nebula/), aka [@towerofnix](https://github.com/towerofnix): We accept small, personal donations to help with hosting and domain expenses, and receive support in the form of services and bandwidth from Fastly. However, we put our own time into the wiki's development, data collaboration, and community (alongside a part-time job) and pay expenses out of pocket where applicable or necessary. And all community contributions to the Homestuck Music Wiki are volunteered and unpaid; we are endlessly grateful for their passion and interest, without which the music wiki's ever-lively creation and development would be impossible.
